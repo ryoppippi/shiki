@@ -70,6 +70,7 @@
     "pnpm": "catalog:cli",
     "prettier": "catalog:cli",
     "rimraf": "catalog:cli",
+    "rolldown-plugin-dts": "catalog:bundling",
     "rollup": "catalog:bundling",
     "rollup-plugin-copy": "catalog:bundling",
     "rollup-plugin-dts": "catalog:bundling",
